@@ -190,6 +190,10 @@
                         letter-spacing: 4px;
                     }
                 }
+                .router-link-active {
+                    color: $color-primary;
+                    letter-spacing: 4px;
+                }
             }
         }
     }
